@@ -6,16 +6,16 @@
 
 # Про книги, фильмы, мультфильмы
 
-Ссылка: [>-=>](/media/media.md)
+* Ссылка: [>-=>](/media/media.md)
 
 # Про разработку
 
-Ссылка: [>-=>](/dev/dev.md)
+* Ссылка: [>-=>](/dev/dev.md)
 
 # Всё остальное
 
-Ссылка: [>-=>](/misc/misc.md)
+* Ссылка: [>-=>](/misc/misc.md)
 
 # Чулан
 
-Ссылка: [>-=>](/lumber_room/lumber_room.md)
+* Ссылка: [>-=>](/lumber_room/lumber_room.md)
