@@ -14,3 +14,4 @@
 
 * Про диванных экспертов: [>-=>](articles/divan.md)
 * Так зачем человеку культура: [>-=>](articles/kultura.md)
+* COVID как репетиция: [>-=>](articles/covid.md)
